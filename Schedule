@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esports Tournament Schedule</title>
+    <link rel="stylesheet" href="esports-style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Esports Tournament Schedule</h1>
+
+        <div class="schedule">
+            <!-- Schedule for each day -->
+            <div class="day-schedule">
+                <h2>Monday</h2>
+                <table class="schedule-table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event</th>
+                            <th>Game</th>
+                            <th>Teams</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>10:00 AM</td>
+                            <td>Quarter Finals</td>
+                            <td>League of Legends</td>
+                            <td>Team Alpha vs Team Beta</td>
+                        </tr>
+                        <tr>
+                            <td>1:00 PM</td>
+                            <td>Group Stage</td>
+                            <td>Dota 2</td>
+                            <td>Team Red vs Team Green</td>
+                        </tr>
+                        <tr>
+                            <td>4:00 PM</td>
+                            <td>Finals</td>
+                            <td>Counter-Strike: Global Offensive</td>
+                            <td>Team X vs Team Y</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="day-schedule">
+                <h2>Tuesday</h2>
+                <table class="schedule-table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event</th>
+                            <th>Game</th>
+                            <th>Teams</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>11:00 AM</td>
+                            <td>Round Robin</td>
+                            <td>Valorant</td>
+                            <td>Team Phoenix vs Team Ghost</td>
+                        </tr>
+                        <tr>
+                            <td>2:00 PM</td>
+                            <td>Semifinals</td>
+                            <td>Fortnite</td>
+                            <td>Team Nova vs Team Eclipse</td>
+                        </tr>
+                        <tr>
+                            <td>6:00 PM</td>
+                            <td>Grand Finals</td>
+                            <td>Apex Legends</td>
+                            <td>Team Vortex vs Team Destiny</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="day-schedule">
+                <h2>Wednesday</h2>
+                <table class="schedule-table">
+                    <thead>
+                        <tr>
+                            <th>Time</th>
+                            <th>Event</th>
+                            <th>Game</th>
+                            <th>Teams</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>9:00 AM</td>
+                            <td>Quarter Finals</td>
+                            <td>Rocket League</td>
+                            <td>Team Speed vs Team Thunder</td>
+                        </tr>
+                        <tr>
+                            <td>12:00 PM</td>
+                            <td>Round Robin</td>
+                            <td>Hearthstone</td>
+                            <td>Player 1 vs Player 2</td>
+                        </tr>
+                        <tr>
+                            <td>3:00 PM</td>
+                            <td>Group Stage</td>
+                            <td>Rainbow Six Siege</td>
+                            <td>Team Aces vs Team Wolves</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script src="esports-schedule.js"></script>
+</body>
+</html>
