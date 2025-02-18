@@ -1,0 +1,39 @@
+<section id="roster">
+    <h2>Team Roster</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Player Name</th>
+                <th>Role</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Kai</td>
+                <td>Team Captain/Support/DPS</td>
+                <td>Active</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Sniper</td>
+                <td>Active</td>
+            </tr>
+            <tr>
+                <td>Alex "Ace" Johnson</td>
+                <td>Support</td>
+                <td>Inactive</td>
+            </tr>
+            <tr>
+                <td>Mike "Flash" Brown</td>
+                <td>Assault</td>
+                <td>Active</td>
+            </tr>
+            <tr>
+                <td>Chris "Strike" Lee</td>
+                <td>Strategist</td>
+                <td>Active</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
